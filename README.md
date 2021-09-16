@@ -1,6 +1,6 @@
 ### Hi, I'm Fede  👋🍻🧉💻
 
-
+``js
 const fede = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Groovy, Python, Java, Dart, C],
@@ -10,6 +10,7 @@ const fede = {
             university: "National University of San Luis, Argentina",
               },
   }
+  ``
 
 <!--
 **FedeVerges/FedeVerges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
