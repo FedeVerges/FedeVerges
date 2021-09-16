@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Fede  👋🍻💻
 
 <!--
 **FedeVerges/FedeVerges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You can finde me 🌐:
+- [LinkedIn] (https://www.linkedin.com/in/federico-verges-94a8a118a/)
+- [Email] (fedeverges@gmail.com)
