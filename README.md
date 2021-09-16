@@ -1,4 +1,15 @@
-### Hi, I'm Fede  👋🍻💻
+### Hi, I'm Fede  👋🍻🧉💻
+
+
+const fede = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Groovy, Python, Java, Dart, C],
+  tools: [Bootstrap, Grails,Flutter,Spark],
+  architecture: ["MVC". "GetX-Flutter"],
+  studies: {
+            university: "National University of San Luis, Argentina",
+              },
+  }
 
 <!--
 **FedeVerges/FedeVerges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
