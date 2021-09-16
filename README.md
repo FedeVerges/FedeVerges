@@ -8,7 +8,9 @@ const fede = {
   architecture: ["MVC". "GetX-Flutter"],
   studies: {
             university: "National University of San Luis, Argentina",
-              },
+            terciary: "William Shakespare English Institute, Argentina",
+            },
+  idioms: [Spanish, English],
   }
   ```
 
