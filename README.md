@@ -17,7 +17,7 @@ const fede = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Groovy, Python, Java, Dart, C],
   tools: [Bootstrap, Grails,Flutter,Spark],
-  architecture: ["MVC". "GetX-Flutter"],
+  architecture: ["MVC", "GetX-Flutter"],
   studies: {
             university: "National University of San Luis, Argentina",
             terciary: "William Shakespare English Institute, Argentina",
