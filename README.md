@@ -3,6 +3,15 @@
 
 - 🌱 I’m currently learning **Javascript and Css advanced and React**
 
+
+![](https://img.shields.io/badge/Dev-FrontEnd-informational?style=flat&logo=groovy&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=groovy&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
+
 ```js
 const fede = {
   pronouns: "he" | "him",
@@ -16,6 +25,8 @@ const fede = {
   languages: [Spanish, English],
   }
   ```
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedeverges&show_icons=true&locale=en&layout=compact" alt="fedeverges" /></p>
+
 
 <!--
 **FedeVerges/FedeVerges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,13 +42,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://img.shields.io/badge/Dev-FrontEnd-informational?style=flat&logo=groovy&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=groovy&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
 
 ## You can finde me 🌐:
 - [LinkedIn] (https://www.linkedin.com/in/federico-verges-94a8a118a/)
