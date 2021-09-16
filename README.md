@@ -10,7 +10,7 @@ const fede = {
             university: "National University of San Luis, Argentina",
             terciary: "William Shakespare English Institute, Argentina",
             },
-  idioms: [Spanish, English],
+  languages: [Spanish, English],
   }
   ```
 
