@@ -8,11 +8,11 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=groovy&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=6aa6f8)
 
 ```js
 const fede = {
