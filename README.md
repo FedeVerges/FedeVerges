@@ -8,19 +8,19 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=groovy&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=groovy&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
 
 ```js
 const fede = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Groovy, Python, Java, Dart, C],
-  tools: [Bootstrap, Grails,Flutter,Spark],
-  architecture: ["MVC", "GetX-Flutter"],
+  code: [Javascript, HTML, CSS, Typescript, React, Angular, Nodejs, Java, Python, AI, SQL],
+  tools: [OpenCode, Github Copilot, Blockhain, ETH, Kafka, PostgreSQL, SQL-Server, Oracle],
   studies: {
-            university: "National University of San Luis, Argentina",
-            terciary: "William Shakespare English Institute, Argentina",
+            university: "National University of San Luis, Argentina"
             },
   languages: [Spanish, English],
   }
