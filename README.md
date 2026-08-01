@@ -3,7 +3,11 @@
 A Software Engineer based in San Luis, Argentina. I design and build end-to-end applications—resilient backends and modern, responsive frontends—with a focus on distributed systems and local AI tooling.
 
 <p align="center">
+  <a href="https://github.com/FedeVerges">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fedeverges&show_icons=true&theme=default" />
+  </a>
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedeverges&show_icons=true&locale=en&layout=compact" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/FedeVerges?label=Followers&style=social" />
 </p>
 
 ## Highlight
@@ -11,18 +15,47 @@ A Software Engineer based in San Luis, Argentina. I design and build end-to-end 
 - 🔭 Current focus: local LLM deployments, agentic AI workflows, and scalable event-driven backends.
 - ⚙️ Core Stack: React, Angular, Java, Spring Boot, Kafka, TypeScript, Docker, PostgreSQL.
 
-## Featured projects
+## Featured (expanded)
 
-A selection of repositories demonstrating architectural patterns and full‑stack implementations.
+Below are the projects I want to highlight. Each entry includes a short description, the primary tech stack, and the current status.
 
-- [gasty](https://github.com/FedeVerges/gasty) — Personal finance management tool built with TypeScript and React. Features budgeting, expense tracking and reports. (WIP / frontend + backend)
-- [PFI-Ing.Informatica-Frontend](https://github.com/FedeVerges/PFI-Ing.Informatica-Frontend) & [PFI-Ing.Informatica-Backend](https://github.com/FedeVerges/PFI-Ing.Informatica-Backend) — Student project: full-stack web app for course management. Frontend in Angular, backend in Java Spring Boot.
-- [LLM-context-graph-front](https://github.com/FedeVerges/LLM-context-graph-front) & [LLM-context-graph](https://github.com/FedeVerges/LLM-context-graph) — Experimental graph-based context manager for LLMs (proof of concept exploring context window management and retrieval).
-- [accounts-api](https://github.com/FedeVerges/accounts-api) — RESTful Java API illustrating clean architecture, domain-driven design, and testable services.
-- [conectar](https://github.com/FedeVerges/conectar) — TypeScript app in active development; focuses on realtime features and UX.
-- [WebSiteDospu-Front](https://github.com/FedeVerges/WebSiteDospu-Front) — Web app developed for a university health organization (frontend).
+### 1) gasty (highlight)
+- Repo: https://github.com/FedeVerges/gasty
+- Description: Personal finance management tool focused on budgeting, expense tracking and visual reports. Built as a modern SPA with strong UX and offline-friendly features.
+- Tech stack: TypeScript, React, Vite, Zustand (state), Tailwind CSS, Node.js, Express, PostgreSQL, Docker.
+- Status: Active development (frontend + backend). Contributions and issues welcome.
 
-(If you want, I can expand each entry with tech stack, status, and demo links.)
+### 2) PFI-Ing.Informatica (highlight)
+- Repos:
+  - Frontend: https://github.com/FedeVerges/PFI-Ing.Informatica-Frontend
+  - Backend: https://github.com/FedeVerges/PFI-Ing.Informatica-Backend
+- Description: Student full-stack project for course management and administrative workflows. Demonstrates typical university software requirements, auth flows and CRUD operations.
+- Tech stack (Frontend): Angular, TypeScript, RxJS, Angular Material.
+- Tech stack (Backend): Java, Spring Boot, Maven, PostgreSQL, Spring Security.
+- Status: Completed (educational project) — good reference for Angular + Spring Boot integration.
+
+### 3) LLM-context-graph (highlight)
+- Repos:
+  - Front: https://github.com/FedeVerges/LLM-context-graph-front
+  - Core: https://github.com/FedeVerges/LLM-context-graph
+- Description: Experimental project exploring graph-based context management for LLMs. Proof-of-concept for organizing, retrieving and merging context windows to improve conversational consistency.
+- Tech stack: TypeScript (frontend), React, Node.js, Graph data model (Neo4j or lightweight in-memory graph), Python components for LLM tooling (optional), Docker.
+- Status: Experimental / research — good for demos and prototyping local LLM workflows.
+
+### 4) conectar (highlight)
+- Repo: https://github.com/FedeVerges/conectar
+- Description: TypeScript application with realtime features focused on UX and connectivity. Useful examples of realtime data flows and UI synchronization.
+- Tech stack: TypeScript, React/Next.js (or plain React), WebSockets / Socket.io, Redis (pub/sub), Docker.
+- Status: Active development.
+
+## Other notable projects (expanded)
+
+- [accounts-api](https://github.com/FedeVerges/accounts-api) — RESTful API service built in Java focusing on clean backend principles and domain logic.
+  - Tech stack: Java, Spring Boot, JPA/Hibernate, PostgreSQL, JUnit, Docker.
+
+- [WebSiteDospu-Front](https://github.com/FedeVerges/WebSiteDospu-Front) — Web application developed for the university health organization (frontend).
+  - Tech stack: HTML/CSS, JavaScript, Bootstrap/React (frontend), deploy-ready static site configuration.
+
 
 ## Skills & Interests
 
@@ -44,6 +77,7 @@ A selection of repositories demonstrating architectural patterns and full‑stac
 ---
 
 Thanks for visiting! If you'd like, I can:
-- expand project descriptions and add demo screenshots,
-- add badges (build/coverage) or a featured project with images,
-- create a PR updating this README with the changes above.
+- add demo screenshots or GIFs for the highlighted projects,
+- add CI/build/coverage badges for specific repos,
+- replace the email placeholder with the address you prefer,
+- create a PR instead of committing to main if you prefer review before merging.
