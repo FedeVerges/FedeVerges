@@ -1,13 +1,13 @@
 # Hi, I'm Federico 👋
 
-A Software Engineer based in San Luis, Argentina. I design and build end-to-end applications—resilient backends and modern, responsive frontends—with a focus on distributed systems and local AI tooling.
+A Software Engineer based in San Luis, Argentina. I design and build end-to-end applications—resilient backends and modern, responsive frontends—with a focus on distributed systems and local AI[...]
 
 <p align="center">
   <a href="https://github.com/FedeVerges">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fedeverges&show_icons=true&theme=default" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FedeVerges&show_icons=true&theme=default" />
   </a>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedeverges&show_icons=true&locale=en&layout=compact" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/FedeVerges?label=Followers&style=social" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeVerges&layout=compact&theme=default" />
+  <a href="https://github.com/FedeVerges?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/FedeVerges?label=Followers&style=social" /></a>
 </p>
 
 ## Highlight
@@ -47,6 +47,15 @@ Below are the projects I want to highlight. Each entry includes a short descript
 - Description: TypeScript application with realtime features focused on UX and connectivity. Useful examples of realtime data flows and UI synchronization.
 - Tech stack: TypeScript, React/Next.js (or plain React), WebSockets / Socket.io, Redis (pub/sub), Docker.
 - Status: Active development.
+
+## Other notable projects (expanded)
+
+- [accounts-api](https://github.com/FedeVerges/accounts-api) — RESTful API service built in Java focusing on clean backend principles and domain logic.
+  - Tech stack: Java, Spring Boot, JPA/Hibernate, PostgreSQL, JUnit, Docker.
+
+- [WebSiteDospu-Front](https://github.com/FedeVerges/WebSiteDospu-Front) — Web application developed for the university health organization (frontend).
+  - Tech stack: HTML/CSS, JavaScript, Bootstrap/React (frontend), deploy-ready static site configuration.
+
 
 ## Skills & Interests
 
