@@ -1,6 +1,6 @@
 # Hi, I'm Federico 👋
 
-A frontend developer from San Luis, Argentina — passionate about building clean, accessible interfaces and learning modern JavaScript and React.
+A **Software Engineer** based in San Luis, Argentina. I specialize in building end-to-end applications, combining robust backend architectures with modern, responsive frontend interfaces.
 
 <p align="center">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedeverges&show_icons=true&locale=en&layout=compact" />
@@ -9,63 +9,29 @@ A frontend developer from San Luis, Argentina — passionate about building clea
 
 ## About me
 
-- 🔭 I build frontend apps with React, TypeScript and modern CSS
-- 🌱 Currently deepening my knowledge in advanced JavaScript, React and frontend architecture
-- 💬 I enjoy working with web3 concepts, backend APIs and exploring LLM/AI tools
-- ⚙️ Comfortable with: JavaScript, TypeScript, React, Angular, Node.js, Java, Python, SQL
-- 🧰 Tools: VS Code, GitHub Copilot, Docker, PostgreSQL
-
-
-## Quick profile (code)
-
-```js
-const fede = {
-  pronouns: "he/him",
-  tech: ["JavaScript", "TypeScript", "React", "Angular", "Node.js", "Java", "Python"],
-  tools: ["VS Code", "GitHub Copilot", "Docker", "PostgreSQL"],
-  studies: {
-    university: "National University of San Luis (UNSL)"
-  },
-  languages: ["Spanish", "English"]
-}
-```
+- 🔭 **Engineering & Architecture:** Focused on distributed systems, high-volume batch processing, event-driven designs, and resilient backend microservices.
+- 🎨 **Frontend & UX:** Experienced in designing and implementing performant web applications, progressive web apps (PWAs), and component-driven user interfaces.
+- 🤖 **Local AI & Tooling:** Passionate about local LLM deployments, agentic AI workflows, and optimizing software performance.
+- 🎓 **Education:** Software Engineering Degree from the National University of San Luis (UNSL).
+- ⚙️ **Core Tech Stack:** React, Angular, Java, Spring Boot, Apache Kafka, TypeScript, Docker, SQL, PostgreSQL.
 
 
 ## Featured projects
 
-A selection of repositories that show my recent work and main technologies.
-
-- [Alkemy-React-Challenge](https://github.com/FedeVerges/Alkemy-React-Challenge) — React challenge demonstrating component design and state management (JavaScript / React).
-- [accounts-api](https://github.com/FedeVerges/accounts-api) — REST API used for UNSL course exercises (Java).
-- [PFI-Ing.Informatica-Frontend](https://github.com/FedeVerges/PFI-Ing.Informatica-Frontend) & [PFI-Ing.Informatica-Backend](https://github.com/FedeVerges/PFI-Ing.Informatica-Backend) — Final integrator project for my degree (frontend + backend).
-- [WebSiteDospu-Front](https://github.com/FedeVerges/WebSiteDospu-Front) — University social work website (HTML / frontend).
-- [LLM-context-graph-front](https://github.com/FedeVerges/LLM-context-graph-front) & [LLM-context-graph](https://github.com/FedeVerges/LLM-context-graph) — Experimental work with LLM context graphs (TypeScript).
-- [conectar](https://github.com/FedeVerges/conectar) — TypeScript project in progress.
-- [gasty](https://github.com/FedeVerges/gasty) — TypeScript project in progress.
-
-If you'd like a short README or screenshots added to any of these project cards, tell me which ones and I will add them.
+A selection of repositories demonstrating my technical work, architectural patterns, and full-stack implementations.
 
 
-## How to run (example)
-
-Most frontend projects use npm/yarn. Example to run a React project locally:
-
-```bash
-# clone and run an example frontend
-git clone https://github.com/FedeVerges/Alkemy-React-Challenge.git
-cd Alkemy-React-Challenge
-npm install
-npm start
-```
-
-For Java backends check the repository README for build instructions (Maven/Gradle).
+- [gasty](https://github.com/FedeVerges/gasty) — Personal finance management tool built with TypeScript.
+- [PFI-Ing.Informatica-Frontend](https://github.com/FedeVerges/PFI-Ing.Informatica-Frontend) & [PFI-Ing.Informatica-Backend](https://github.com/FedeVerges/PFI-Ing.Informatica-Backend) — Engineering degree capstone project featuring a complete end-to-end system implementation.
+- [LLM-context-graph-front](https://github.com/FedeVerges/LLM-context-graph-front) & [LLM-context-graph](https://github.com/FedeVerges/LLM-context-graph) — Experimental project exploring graph-based contextual representations for LLMs.
+- [accounts-api](https://github.com/FedeVerges/accounts-api) — RESTful API service built in Java focusing on clean backend principles and domain logic.
+- [conectar](https://github.com/FedeVerges/conectar) — TypeScript-based application in active development.
+- [WebSiteDospu-Front](https://github.com/FedeVerges/WebSiteDospu-Front) — Web application developed for the university health organization.
 
 
 ## Contact & links
 
-- LinkedIn: https://www.linkedin.com/in/federico-verges-94a8a118a/
-- Email: <fedeverges@gmail.com>
-
+- **LinkedIn:** [Federico Vergés](https://www.linkedin.com/in/federico-verges-94a8a118a/)
 ---
 
-Thanks for visiting — I'm always improving this profile. If you want more visuals (project badges, screenshots, live demos) or a different layout, tell me which style you prefer and I'll update it.
+Thanks for visiting!
