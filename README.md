@@ -46,16 +46,6 @@ Below are the projects I want to highlight. Each entry includes a short descript
 - Repo: https://github.com/FedeVerges/conectar
 - Description: TypeScript application with realtime features focused on UX and connectivity. Useful examples of realtime data flows and UI synchronization.
 - Tech stack: TypeScript, React/Next.js (or plain React), WebSockets / Socket.io, Redis (pub/sub), Docker.
-- Status: Active development.
-
-## Other notable projects (expanded)
-
-- [accounts-api](https://github.com/FedeVerges/accounts-api) — RESTful API service built in Java focusing on clean backend principles and domain logic.
-  - Tech stack: Java, Spring Boot, JPA/Hibernate, PostgreSQL, JUnit, Docker.
-
-- [WebSiteDospu-Front](https://github.com/FedeVerges/WebSiteDospu-Front) — Web application developed for the university health organization (frontend).
-  - Tech stack: HTML/CSS, JavaScript, Bootstrap/React (frontend), deploy-ready static site configuration.
-
 
 ## Skills & Interests
 
