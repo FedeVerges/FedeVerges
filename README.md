@@ -48,21 +48,12 @@ Below are the projects I want to highlight. Each entry includes a short descript
 - Tech stack: TypeScript, React/Next.js (or plain React), WebSockets / Socket.io, Redis (pub/sub), Docker.
 - Status: Active development.
 
-## Other notable projects (expanded)
-
-- [accounts-api](https://github.com/FedeVerges/accounts-api) — RESTful API service built in Java focusing on clean backend principles and domain logic.
-  - Tech stack: Java, Spring Boot, JPA/Hibernate, PostgreSQL, JUnit, Docker.
-
-- [WebSiteDospu-Front](https://github.com/FedeVerges/WebSiteDospu-Front) — Web application developed for the university health organization (frontend).
-  - Tech stack: HTML/CSS, JavaScript, Bootstrap/React (frontend), deploy-ready static site configuration.
-
-
 ## Skills & Interests
 
-- Backend: Java, Spring Boot, microservices, Kafka, event-driven systems.
+- Backend: Java, Spring Boot, microservices, Kafka, Nodejs, Typescript, event-driven systems.
 - Frontend: React, Angular, TypeScript, PWAs, component-driven UI.
 - DevOps & infra: Docker, CI/CD, performance tuning.
-- AI: Local LLMs, agents, tooling for offline inference.
+- AI: Local LLMs, agents, tooling for offline inference, copilot, opencode.
 
 ## Education
 
@@ -72,7 +63,6 @@ Below are the projects I want to highlight. Each entry includes a short descript
 
 - LinkedIn: [Federico Vergés](https://www.linkedin.com/in/federico-verges-94a8a118a/)
 - GitHub: https://github.com/FedeVerges
-- Email: (available on request)
 
 ---
 
